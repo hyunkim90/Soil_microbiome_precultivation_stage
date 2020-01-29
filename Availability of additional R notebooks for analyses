@@ -1,0 +1,13 @@
+#### Availability of additional R notebooks for analyses
+
+
+## For constrained PCoA analyses
+The R notebook "cpcoa.plot.func.R" is available at https://github.com/hzi-bifo/BarleyMeta/blob/master/cpcoa.plot.func.R.
+
+## For network analyses
+The R notebooks ("CorrDF.R", "star_shape.R", and "triangle_shape.R") for constructing co-occurrence networks of soil microbial communities are available 
+at Additional file 4 of Hartman et al. 2018. Microbiome (https://doi.org/10.1186/s40168-017-0389-9).
+
+
+
+
