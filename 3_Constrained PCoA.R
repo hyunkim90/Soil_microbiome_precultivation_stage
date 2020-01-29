@@ -13,6 +13,7 @@
 ### ananlysis of beta-diversity (CPCoA)
 
 # load functions
+# "cpcoa.plot.func.R" is available at https://github.com/hzi-bifo/BarleyMeta/blob/master/cpcoa.plot.func.R.
 source("cpcoa.plot.func.R")
 
 
