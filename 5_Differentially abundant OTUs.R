@@ -225,6 +225,6 @@ df
 
 write.table(df, 'ternary plot_cultural practice_fungi.txt', quote=FALSE, sep='\t', row.names = T, col.names = T)
 # plot colored by enrichment
-
+# tern_e fuction is available from ternary_plots. R at https://github.com/garridoo/lotus/tree/master/statistical_analyses
 tern_e(df, prop_size=T, col=colors, grid_color="grey",
        labels_color="transparent", pch=19, main="Cultural practice")
