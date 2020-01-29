@@ -1,5 +1,6 @@
 library(igraph)
-
+# The R notebooks ("CorrDF.R", "star_shape.R", and "triangle_shape.R") for constructing co-occurrence networks of soil microbial communities are available 
+# at Additional file 4 of Hartman et al. 2018. Microbiome (https://doi.org/10.1186/s40168-017-0389-9).
 source("CorrDF.R")
 source("star_shape.R")
 source("triangle_shape.R")
